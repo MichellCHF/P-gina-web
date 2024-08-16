@@ -1,0 +1,88 @@
+/*selector de etiqueta*/
+
+
+
+
+body{
+    background: -webkit-linear-gradient(90deg, #00d0fa,#f2870d);background: linear-gradient(90deg, #00d0fa,#f2870d);
+    font-family: "Montserrat", sans-serif;
+}
+
+P{
+    color: #FFF6E9;
+}
+ 
+/*selector de clase*/ 
+
+
+
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.inicios{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.rol{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+
+
+.proyectoss{
+    color: white;
+}
+
+.menu{
+    background: -webkit-linear-gradient(90deg, #f5e91f,#ff8111);background: linear-gradient(90deg, #f5e91f,#ff8111);
+    margin: 5px;
+    
+}
+
+.menu ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 0;
+    padding: 0; 
+
+}
+
+.menu ul li{ 
+    float:left
+}
+
+.menu ul li a{
+    display: block;
+    color: #FFF6E9;
+    text-align: center;
+    padding: 14px 20px ;
+    text-decoration: none;
+
+}
+
+.historia{
+    background-image: url("https://www.hollywoodreporter.com/wp-content/uploads/2024/02/HOTS_MY_SPStatic_1500x1500_FINAL_ms-MY_2024-1.jpg?w=1296&h=730&crop=1");
+    padding: 100px;
+    background-size: cover;
+    
+}
+
+
+
+
+
+
+
+
